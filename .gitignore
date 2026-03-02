@@ -1,0 +1,22 @@
+# --- Credentials ---
+.env
+
+# --- Python & Cache ---
+__pycache__/
+core/__pycache__/
+config/__pycache__/
+*.py[cod]
+
+# --- Executables & External Tools ---
+ngrok.exe
+ngrok.exe.old
+.ngrok.exe
+
+# --- Temporary Audio & Logs ---
+temp_audio/
+logs/
+*.wav
+
+# --- Local Environment ---
+venv/
+.vscode/
