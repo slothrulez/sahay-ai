@@ -24,7 +24,7 @@ SAHAY AI transforms a humble phone call into a high-speed portal for generative 
 
 * Simplification Engine: It doesn't just provide answers; it distills complex information into simplified, digestible verbal summaries (maximum 500 characters) suited for spoken-word delivery.
 
-## 🛠 Technical Architecture & Neural Pipeline
+## Technical Architecture & Neural Pipeline
 
 The system is built as a synchronous Neural Orchestrator that manages the lifecycle of a voice signal across four distinct stages:
 
